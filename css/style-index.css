@@ -1,0 +1,24 @@
+.heading
+{
+    font-family: 'Open sans' , sans-serif;
+}
+.heading h2{
+    font-size: 5rem;
+    font-weight: 900;
+    color: #f1f1ff;
+}
+
+
+.heading h3
+{
+    font-size: 2.5rem;
+    font-weight: 900;
+    
+    
+    
+}
+.food-icon
+{
+    color: brown;
+    
+}
